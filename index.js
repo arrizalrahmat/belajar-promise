@@ -72,6 +72,7 @@ const fetchUsers = async () => {
     console.log('1');
     console.log('1');
     console.log('1');
+
     console.log('1');
     console.log('1');
   } catch (error) {
